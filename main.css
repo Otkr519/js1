@@ -1,0 +1,17 @@
+.timerview{
+  display: flex;
+  }
+
+  .timer{
+    display: flex;
+    flex-direction: column;
+  }
+
+#time{
+  font-size: 30px; ;
+  margin: 20px 20px;
+}
+
+#start,#stop,#reset{
+  padding: 10px 10px;
+}
